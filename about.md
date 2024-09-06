@@ -8,3 +8,4 @@ permalink: /about/
 
 I am Abdelrahman Mohamed, a recent Computer Science graduate. Welcome to my portfolio!
 
+![My Picture](assets/images/pics/Boda.jpeg)
