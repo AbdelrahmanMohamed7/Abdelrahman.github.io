@@ -4,11 +4,15 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
 
-## Project 1: Chat Application
-- Description: A real-time chat application built using Node.js and WebSocket.
 
-## Project 2: Portfolio Website
-- Description: This portfolio site is built using GitHub Pages and Jekyll.
+# Student Fee Management System
+
+
+
+- **Description:**  A student fee management system that allows user login and account creation for students and staff. It includes functionalities for generating unique IDs for staff and students, managing user accounts, and displaying users.
+- **Features:** User login authentication, Admin staff and student account creation, Unique ID generation for staff and students, Super user and admin menus for account management.
+- **Technologies Used:** Python, File I/O
+- **Download:** [Click here to download the project](assets/downloads/Student%20Fee%20Management%20System.zip)
+
 
