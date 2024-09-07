@@ -1,6 +1,4 @@
-# Abdelrahman Mohamed Portfolio
-
-Welcome to my portfolio website!
+# Welcome to my portfolio website!
 
 ![My Picture](assets/images/pics/Boda.jpeg)
 
