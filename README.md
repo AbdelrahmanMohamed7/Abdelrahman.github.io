@@ -1,4 +1,3 @@
-
 ![My Picture](assets/images/pics/Boda.jpeg)
 
 ## About
