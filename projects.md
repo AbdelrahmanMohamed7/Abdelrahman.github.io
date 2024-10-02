@@ -1,20 +1,11 @@
----
-layout: page
-title: "Projects"
-permalink: /projects/
----
+**Student Fee Management System**
 
-
-
-# Student Fee Management System
-
-
-
-- **Description:**  A student fee management system that allows user login and account creation for students and staff. It includes functionalities for generating unique IDs for staff and students, managing user accounts, and displaying users.
-- **Features:** User login authentication, Admin staff and student account creation, Unique ID generation for staff and students, Super user and admin menus for account management.
-- **Technologies Used:** Python, File I/O
-- [Click here to download the project](https://drive.google.com/drive/folders/1c6Z-Oy5HmPE47-9w82slIyKUbFEs1TK0?usp=share_link)
-
-
-
-
+* **Description:** A web-based application that streamlines the process of managing student fees.
+* **Key Features:**
+    * User login and account creation for students and staff
+    * Automated fee calculation and payment processing
+    * Customizable fee structures
+    * Detailed reporting and analytics
+* **Technologies Used:** Python, Django, JavaScript
+* **Demo:** [Link to a live demo or GitHub repository]
+* **Image:** [Insert a screenshot or video of the project in action]
