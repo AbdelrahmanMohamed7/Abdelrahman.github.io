@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
 
 ![My Picture](assets/images/pics/Boda.jpeg)
 
