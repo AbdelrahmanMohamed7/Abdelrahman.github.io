@@ -1,32 +1,7 @@
----
-layout: page
-title: "About Me"
-permalink: /about/
----
+**About Me**
 
-# About Me
+I'm Abdelrahman Mohamed, a passionate software developer with a focus on [Your primary area of expertise, e.g., web development, data science]. With a Bachelor of Science (Honours) in Computer Science from APU-DMU Dual Degree, I've honed my skills in [List of programming languages and technologies].
 
-![My Picture](assets/images/pics/Boda.jpeg)
+I'm driven by a desire to create innovative solutions that solve real-world problems. I enjoy collaborating with teams to build high-quality software and continuously learning new technologies.
 
-I am Abdelrahman Mohamed, a recent Computer Science graduate. Welcome to my portfolio!
-
-## Education
-
-Bachelor of Science (Honours) in Computer Science. <br>
-APU-DMU DUAL DEGREE <br>
-Asia Pacific University (APU), Malaysia and De Montfort University (DMU), UK.
-
-
-## Skills
-
-- Programming Languages: C++, Java, Python
-- Web Development: HTML, CSS, JavaScript
-- Cloud: AWS, Docker
-
-
-## Hobbies
-
-- Tech Enthusiast
-- Team Collaboration
-- Exploring New Technologies
-
+In my free time, I'm passionate about [Your personal interests, e.g., exploring new technologies, contributing to open-source projects].
